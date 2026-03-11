@@ -1,7 +1,7 @@
 # zehoSLAV.github.io
 <HTML>
 <HEAD>
-<TITLE>Švestice</TITLE>
+TITLE:Švestice
 </HEAD>
 <BODY BGCOLOR="#4B96FF" VLINK="#000000" ALINK="#969696">
 
